@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <radialGradient id="bgGlow" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#1A244D" />
+      <stop offset="45%" stop-color="#0E152F" />
+      <stop offset="100%" stop-color="#070913" />
+    </radialGradient>
+    <radialGradient id="cyberRing" cx="50%" cy="50%" r="50%">
+      <stop offset="70%" stop-color="#20D9E8" stop-opacity="0" />
+      <stop offset="90%" stop-color="#20D9E8" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#7C5CFC" stop-opacity="0.8" />
+    </radialGradient>
+    <linearGradient id="neonCyanPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#20D9E8" />
+      <stop offset="50%" stop-color="#7C5CFC" />
+      <stop offset="100%" stop-color="#B5F36A" />
+    </linearGradient>
+    
+    <!-- Skin Shading Gradients -->
+    <linearGradient id="skinBase" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FCD5B5" />
+      <stop offset="70%" stop-color="#F3BE98" />
+      <stop offset="100%" stop-color="#E5A67C" />
+    </linearGradient>
+    <linearGradient id="skinShadow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E29E75" />
+      <stop offset="100%" stop-color="#C87D56" />
+    </linearGradient>
+
+    <!-- Hair Gradient -->
+    <linearGradient id="hairGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2D3748" />
+      <stop offset="40%" stop-color="#1A202C" />
+      <stop offset="100%" stop-color="#0F131A" />
+    </linearGradient>
+    <linearGradient id="hairHighlight" x1="0%" y1="0%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#4A5568" stop-opacity="0" />
+      <stop offset="50%" stop-color="#718096" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#2D3748" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Clothes Gradient -->
+    <linearGradient id="hoodieGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E2333" />
+      <stop offset="60%" stop-color="#111522" />
+      <stop offset="100%" stop-color="#0A0C14" />
+    </linearGradient>
+
+    <!-- Glasses Lens Glint -->
+    <linearGradient id="lensGlint" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#20D9E8" stop-opacity="0.45" />
+      <stop offset="35%" stop-color="#FFFFFF" stop-opacity="0.75" />
+      <stop offset="50%" stop-color="#20D9E8" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#7C5CFC" stop-opacity="0.3" />
+    </linearGradient>
+
+    <!-- Glow Filters -->
+    <filter id="cyanGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- ================= BACKGROUND LAYER ================= -->
+  <rect width="512" height="512" fill="url(#bgGlow)" />
+
+  <!-- Cyber Hex Grid Lines -->
+  <g opacity="0.12" stroke="#20D9E8" stroke-width="1" fill="none">
+    <path d="M0,64 L512,64 M0,128 L512,128 M0,192 L512,192 M0,256 L512,256 M0,320 L512,320 M0,384 L512,384 M0,448 L512,448" />
+    <path d="M64,0 L64,512 M128,0 L128,512 M192,0 L192,512 M256,0 L256,512 M320,0 L320,512 M384,0 L384,512 M448,0 L448,512" />
+  </g>
+
+  <!-- Glowing Circular Tech Portal Behind Head -->
+  <circle cx="256" cy="240" r="190" fill="url(#cyberRing)" />
+  <circle cx="256" cy="240" r="170" fill="none" stroke="#20D9E8" stroke-width="1.5" stroke-dasharray="6 8 16 8" opacity="0.4" />
+  <circle cx="256" cy="240" r="145" fill="none" stroke="#7C5CFC" stroke-width="1" stroke-dasharray="4 12" opacity="0.5" />
+
+  <!-- Binary & Code Particles in Background -->
+  <g font-family="monospace" font-size="11" fill="#20D9E8" opacity="0.28" font-weight="bold">
+    <text x="35" y="80">01001110</text>
+    <text x="380" y="95">&lt;ARCHITECT/&gt;</text>
+    <text x="40" y="320">DP[i][j] = min</text>
+    <text x="375" y="330">BFS_O(V+E)</text>
+    <text x="45" y="440">DOCKER_V2</text>
+    <text x="390" y="440">TATVA_TECH</text>
+  </g>
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="100" cy="140" r="4" fill="#20D9E8" filter="url(#cyanGlow)" />
+  <circle cx="410" cy="160" r="3" fill="#B5F36A" filter="url(#cyanGlow)" />
+  <circle cx="80" cy="280" r="2.5" fill="#7C5CFC" filter="url(#softGlow)" />
+  <circle cx="430" cy="270" r="3.5" fill="#20D9E8" filter="url(#cyanGlow)" />
+
+  <!-- ================= CHARACTER BODY LAYER ================= -->
+  <!-- Shoulders & Torso -->
+  <path d="M120,512 C120,440 145,395 195,380 L230,430 L282,430 L317,380 C367,395 392,440 392,512 Z" fill="url(#hoodieGrad)" />
+  <!-- Hoodie Seams & Shadows -->
+  <path d="M195,380 L230,430 L282,430 L317,380 C290,390 220,390 195,380 Z" fill="#141824" opacity="0.8" />
+  
+  <!-- Glowing Cyber Circuit Traces on Hoodie Shoulders -->
+  <g stroke="#20D9E8" stroke-width="2" fill="none" opacity="0.75" filter="url(#softGlow)">
+    <path d="M150,490 L170,440 L210,425" />
+    <circle cx="210" cy="425" r="3" fill="#20D9E8" />
+    <circle cx="150" cy="490" r="2.5" fill="#20D9E8" />
+
+    <path d="M362,490 L342,440 L302,425" />
+    <circle cx="302" cy="425" r="3" fill="#20D9E8" />
+    <circle cx="362" cy="490" r="2.5" fill="#20D9E8" />
+  </g>
+
+  <!-- NEXORA Chest Tech Badge -->
+  <g transform="translate(256, 465)">
+    <polygon points="0,-16 28,-2 28,16 0,26 -28,16 -28,-2" fill="#0E1322" stroke="#20D9E8" stroke-width="1.5" />
+    <path d="M-10,-5 L0,-12 L10,-5 L10,8 L0,15 L-10,8 Z" fill="none" stroke="#B5F36A" stroke-width="1.2" />
+    <circle cx="0" cy="2" r="3.5" fill="#20D9E8" filter="url(#cyanGlow)" />
+  </g>
+
+  <!-- ================= NECK & HEAD LAYER ================= -->
+  <!-- Neck -->
+  <path d="M226,340 L226,400 C240,410 272,410 286,400 L286,340 Z" fill="url(#skinShadow)" />
+  <!-- Neck highlight -->
+  <path d="M234,340 L234,390 C246,398 266,398 278,390 L278,340 Z" fill="url(#skinBase)" />
+
+  <!-- Jaw & Face Shape (Naveen's clean oval structure) -->
+  <path d="M172,210 C172,295 195,355 256,355 C317,355 340,295 340,210 C340,155 315,130 256,130 C197,130 172,155 172,210 Z" fill="url(#skinBase)" />
+
+  <!-- Chin & Jaw Shadow -->
+  <path d="M192,305 C215,345 240,355 256,355 C272,355 297,345 320,305 C295,338 270,348 256,348 C242,348 217,338 192,305 Z" fill="url(#skinShadow)" opacity="0.6" />
+
+  <!-- Neat Light Beard & Stubble Contour (modeled on Naveen) -->
+  <path d="M185,255 C186,310 210,345 256,345 C302,345 326,310 327,255 C323,295 300,332 256,332 C212,332 189,295 185,255 Z" fill="#1A202C" opacity="0.32" />
+  <!-- Mustache shadow -->
+  <path d="M236,296 C244,293 256,293 260,293 C268,293 276,296 272,302 C262,304 250,304 240,302 Z" fill="#1A202C" opacity="0.25" />
+
+  <!-- Mouth: Confident, friendly anime smile -->
+  <path d="M236,305 Q256,316 276,305" fill="none" stroke="#9C5237" stroke-width="3" stroke-linecap="round" />
+  <path d="M242,306 Q256,314 270,306" fill="#FFFFFF" opacity="0.9" />
+  <path d="M248,318 Q256,322 264,318" fill="none" stroke="#C87D56" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Nose -->
+  <path d="M256,252 L252,274 L260,274" fill="none" stroke="#BA6C48" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Ears -->
+  <path d="M165,220 C160,220 156,240 162,265 C166,280 172,282 174,272 Z" fill="url(#skinShadow)" />
+  <path d="M347,220 C352,220 356,240 350,265 C346,280 340,282 338,272 Z" fill="url(#skinShadow)" />
+
+  <!-- Cybernetic Earpiece on Left Ear -->
+  <g transform="translate(164, 245)">
+    <circle cx="0" cy="0" r="7" fill="#1A202C" stroke="#20D9E8" stroke-width="1.5" />
+    <circle cx="0" cy="0" r="3" fill="#B5F36A" filter="url(#cyanGlow)" />
+    <path d="M0,7 L3,16 L-2,20" fill="none" stroke="#20D9E8" stroke-width="1.5" />
+  </g>
+
+  <!-- ================= EYES & GLASSES LAYER ================= -->
+  <!-- Eyebrows -->
+  <path d="M192,200 Q215,188 234,196" fill="none" stroke="#1A202C" stroke-width="4.5" stroke-linecap="round" />
+  <path d="M320,200 Q297,188 278,196" fill="none" stroke="#1A202C" stroke-width="4.5" stroke-linecap="round" />
+
+  <!-- Eyes (Anime style with depth) -->
+  <!-- Left Eye -->
+  <g transform="translate(214, 222)">
+    <ellipse cx="0" cy="0" rx="16" ry="11" fill="#FFFFFF" />
+    <!-- Iris -->
+    <ellipse cx="1" cy="0" rx="9.5" ry="10" fill="#1F2937" />
+    <ellipse cx="1" cy="0" rx="8" ry="8.5" fill="#111827" />
+    <!-- Cyber Amber / Cyan Catchlights -->
+    <circle cx="4" cy="-3" r="3.2" fill="#FFFFFF" />
+    <circle cx="-3" cy="2" r="1.8" fill="#20D9E8" />
+    <!-- Eyelash / Outline -->
+    <path d="M-17,-7 Q0,-14 17,-7" fill="none" stroke="#0F131A" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <!-- Right Eye -->
+  <g transform="translate(298, 222)">
+    <ellipse cx="0" cy="0" rx="16" ry="11" fill="#FFFFFF" />
+    <!-- Iris -->
+    <ellipse cx="-1" cy="0" rx="9.5" ry="10" fill="#1F2937" />
+    <ellipse cx="-1" cy="0" rx="8" ry="8.5" fill="#111827" />
+    <!-- Catchlights -->
+    <circle cx="2" cy="-3" r="3.2" fill="#FFFFFF" />
+    <circle cx="-5" cy="2" r="1.8" fill="#20D9E8" />
+    <!-- Eyelash / Outline -->
+    <path d="M-17,-7 Q0,-14 17,-7" fill="none" stroke="#0F131A" stroke-width="3" stroke-linecap="round" />
+  </g>
+
+  <!-- Modern Rectangular Tech Spectacles (Naveen's Glasses) -->
+  <!-- Left Frame -->
+  <rect x="186" y="204" width="56" height="36" rx="8" ry="8" fill="url(#lensGlint)" stroke="#D9383A" stroke-width="3.5" />
+  <rect x="187" y="205" width="54" height="34" rx="7" ry="7" fill="none" stroke="#20D9E8" stroke-width="1.2" opacity="0.8" />
+  
+  <!-- Right Frame -->
+  <rect x="270" y="204" width="56" height="36" rx="8" ry="8" fill="url(#lensGlint)" stroke="#D9383A" stroke-width="3.5" />
+  <rect x="271" y="205" width="54" height="34" rx="7" ry="7" fill="none" stroke="#20D9E8" stroke-width="1.2" opacity="0.8" />
+
+  <!-- Glasses Bridge -->
+  <path d="M242,216 Q256,212 270,216" fill="none" stroke="#D9383A" stroke-width="3.5" stroke-linecap="round" />
+  <!-- Temple arms -->
+  <path d="M186,216 L168,222" fill="none" stroke="#D9383A" stroke-width="3" stroke-linecap="round" />
+  <path d="M326,216 L344,222" fill="none" stroke="#D9383A" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Anime Glasses Glint Sparkle (The Iconic Anime Coder Gleam ✨) -->
+  <g transform="translate(198, 212)" filter="url(#cyanGlow)">
+    <polygon points="0,-9 3,-2 10,0 3,2 0,9 -3,2 -10,0 -3,-2" fill="#FFFFFF" />
+    <circle cx="0" cy="0" r="3" fill="#20D9E8" />
+  </g>
+  <g transform="translate(314, 214)" filter="url(#cyanGlow)">
+    <polygon points="0,-6 2,-1 7,0 2,1 0,6 -2,1 -7,0 -2,-1" fill="#FFFFFF" />
+    <circle cx="0" cy="0" r="2" fill="#B5F36A" />
+  </g>
+
+  <!-- ================= HAIR LAYER (Naveen's Volumetric Styled Hair) ================= -->
+  <!-- Main Hair Volume -->
+  <path d="M165,190 C155,145 180,95 240,82 C285,72 335,88 350,135 C360,165 352,195 348,215 C336,180 330,160 305,150 C280,140 250,142 225,148 C195,155 178,172 165,190 Z" fill="url(#hairGrad)" />
+
+  <!-- Anime Hair Strands & Tufts -->
+  <!-- Top Center Tufts (swept neatly up and to the side) -->
+  <path d="M220,145 Q245,100 280,92 Q270,125 295,135 Q260,122 235,148 Z" fill="#2D3748" />
+  <path d="M255,115 Q290,95 320,110 Q305,130 330,140 Q290,120 265,135 Z" fill="#1A202C" />
+  <path d="M185,155 Q205,120 238,110 Q225,135 242,145 Q205,135 185,155 Z" fill="#1A202C" />
+
+  <!-- Side Hair Details -->
+  <path d="M168,185 C162,205 166,230 172,240 C173,222 178,210 185,200 Z" fill="#111827" />
+  <path d="M344,185 C350,205 346,230 340,240 C339,222 334,210 327,200 Z" fill="#111827" />
+
+  <!-- Front Hair Highlights (Anime Sheen) -->
+  <path d="M205,130 Q240,105 295,110 Q265,125 220,140 Z" fill="url(#hairHighlight)" />
+
+  <!-- ================= FOREGROUND TECH ACCENTS ================= -->
+  <!-- Futuristic HUD Targeting Brackets -->
+  <g stroke="#20D9E8" stroke-width="2" fill="none" opacity="0.85" filter="url(#cyanGlow)">
+    <!-- Top-Left -->
+    <path d="M24,48 L24,24 L48,24" />
+    <!-- Top-Right -->
+    <path d="M488,48 L488,24 L464,24" />
+    <!-- Bottom-Left -->
+    <path d="M24,464 L24,488 L48,488" />
+    <!-- Bottom-Right -->
+    <path d="M488,464 L488,488 L464,488" />
+  </g>
+
+  <!-- Small Cyber Coordinates & Status -->
+  <text x="32" y="44" font-family="monospace" font-size="10" fill="#20D9E8" opacity="0.8">SYS // NAVEEN.SOLANKI</text>
+  <text x="365" y="44" font-family="monospace" font-size="10" fill="#B5F36A" opacity="0.9" font-weight="bold">ONLINE ● ARCHITECT</text>
+  <text x="32" y="480" font-family="monospace" font-size="9" fill="#7C5CFC" opacity="0.8">SYSTEM: ARCHITECT</text>
+  <text x="382" y="480" font-family="monospace" font-size="9" fill="#20D9E8" opacity="0.8">TATVATECH</text>
+</svg>

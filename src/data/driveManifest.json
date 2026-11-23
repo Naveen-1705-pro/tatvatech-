@@ -1,0 +1,410 @@
+{
+  "application_bipartite_graph_understanding_recommendation": {
+    "slug": "application_bipartite_graph_understanding_recommendation",
+    "rawName": "Application_Bipartite graph_understanding_recommendation",
+    "folderId": "13w8T9gWpNFPmMlr3_TLtnaDq1v8dipiq",
+    "title": "Bipartite Graph & Recommendation Systems",
+    "category": "DSA",
+    "description": "How bipartite graph matching powers modern real-world recommendation engines, user-item graphs, and network analysis.",
+    "difficulty": "Intermediate",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/application_bipartite_graph_understanding_recommendation/01_image_1.jpg",
+        "driveId": "1bCKRZGCqQ-Eyifnm5qwrYdoasqHHneOm"
+      },
+      {
+        "order": 2,
+        "title": "Image 2",
+        "localUrl": "/images/drive/application_bipartite_graph_understanding_recommendation/02_Image_2.jpg",
+        "driveId": "1boBtcfNnZ3uzoPkkEcB70IbzasqYT_lp"
+      },
+      {
+        "order": 3,
+        "title": "Image 3",
+        "localUrl": "/images/drive/application_bipartite_graph_understanding_recommendation/03_Image_3.jpg",
+        "driveId": "1iNLvldrHICRMRBHdUYvWG-Zvw7ygirtK"
+      },
+      {
+        "order": 4,
+        "title": "Image 4",
+        "localUrl": "/images/drive/application_bipartite_graph_understanding_recommendation/04_Image_4.jpg",
+        "driveId": "11Z6GSIKrCC43eonGGRkqIJGB4VL6tEMj"
+      },
+      {
+        "order": 5,
+        "title": "Image 5",
+        "localUrl": "/images/drive/application_bipartite_graph_understanding_recommendation/05_Image_5.jpg",
+        "driveId": "1PVtQUuifxraa2s_5_yAqizuAf9fPPGzv"
+      }
+    ],
+    "coverImage": "/images/drive/application_bipartite_graph_understanding_recommendation/01_image_1.jpg"
+  },
+  "bfs_graph__connect_to_real_life": {
+    "slug": "bfs_graph__connect_to_real_life",
+    "rawName": "BFS_Graph_ Connect to real-life",
+    "folderId": "1HuHJBUanMpy3Sw5ShdjwWuXEwJntvh01",
+    "title": "Bfs Graph  Connect To Real-Life",
+    "category": "Tech",
+    "description": "Visual breakdown of BFS_Graph_ Connect to real-life.",
+    "difficulty": "Intermediate",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/bfs_graph__connect_to_real_life/01_Image_1.jpg",
+        "driveId": "15bP-SrVmuK9O89Ihyo5dcbifIJfsHGNZ"
+      }
+    ],
+    "coverImage": "/images/drive/bfs_graph__connect_to_real_life/01_Image_1.jpg"
+  },
+  "dbms_transaction_knowledge": {
+    "slug": "dbms_transaction_knowledge",
+    "rawName": "DBMS_Transaction_knowledge",
+    "folderId": "1LUie8PywtjHCnKNLW-9kH_OFcmfmVI6q",
+    "title": "DBMS Transactions & ACID Deep Dive",
+    "category": "DBMS",
+    "description": "Complete breakdown of database transactions, ACID properties, isolation levels, and concurrency control.",
+    "difficulty": "Advanced",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/dbms_transaction_knowledge/01_Image_1.jpg",
+        "driveId": "1gjxQoRdIAsSyeZFyBE4c_c9tZWNDxb6E"
+      },
+      {
+        "order": 2,
+        "title": "Image 2",
+        "localUrl": "/images/drive/dbms_transaction_knowledge/02_Image_2.jpg",
+        "driveId": "1A9KK4E48yV9ApzM2TvAwhhbhTdwtVvtn"
+      },
+      {
+        "order": 3,
+        "title": "Image 3",
+        "localUrl": "/images/drive/dbms_transaction_knowledge/03_Image_3.jpg",
+        "driveId": "1oSod7llHSJvAnC80N0Ce3Gfdts1C7TIJ"
+      },
+      {
+        "order": 4,
+        "title": "Image 4",
+        "localUrl": "/images/drive/dbms_transaction_knowledge/04_Image_4.jpg",
+        "driveId": "1fRwaea-bJ-8jAlCp9STSPok31s6_z83J"
+      }
+    ],
+    "coverImage": "/images/drive/dbms_transaction_knowledge/01_Image_1.jpg"
+  },
+  "dbms_type_architecture": {
+    "slug": "dbms_type_architecture",
+    "rawName": "DBMS_Type_architecture",
+    "folderId": "1u90t5zZT7lVTANwNVa80lAeoy0c3gRwG",
+    "title": "Dbms Type Architecture",
+    "category": "Tech",
+    "description": "Visual breakdown of DBMS_Type_architecture.",
+    "difficulty": "Intermediate",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/dbms_type_architecture/01_Image_1.jpg",
+        "driveId": "1855q82VgfNCSvB0SNF9trCvW_0EXfbbW"
+      },
+      {
+        "order": 2,
+        "title": "Image 2",
+        "localUrl": "/images/drive/dbms_type_architecture/02_Image_2.jpg",
+        "driveId": "1CtFaTkURtdqOaRczjljYWyL_yT7BFEEv"
+      },
+      {
+        "order": 3,
+        "title": "Image 3",
+        "localUrl": "/images/drive/dbms_type_architecture/03_Image_3.jpg",
+        "driveId": "1ti6LeNe5EXmwCKA7Ffv9qigjrP3nnkVb"
+      },
+      {
+        "order": 4,
+        "title": "Image 4",
+        "localUrl": "/images/drive/dbms_type_architecture/04_Image_4.jpg",
+        "driveId": "1mm2Nz6N2c02she1pWIgwdNkMCEltp0EB"
+      },
+      {
+        "order": 5,
+        "title": "Image 5",
+        "localUrl": "/images/drive/dbms_type_architecture/05_Image_5.jpg",
+        "driveId": "1wIBPB1UXjXZk14bsRXkBRDQEWnPF_N0g"
+      },
+      {
+        "order": 6,
+        "title": "Image 6",
+        "localUrl": "/images/drive/dbms_type_architecture/06_Image_6.jpg",
+        "driveId": "1hv_IMnLsD21W9I2fn7YKtBw4Ejnwdntu"
+      }
+    ],
+    "coverImage": "/images/drive/dbms_type_architecture/01_Image_1.jpg"
+  },
+  "destructor_knowledge": {
+    "slug": "destructor_knowledge",
+    "rawName": "Destructor_Knowledge",
+    "folderId": "1CCQ92nIRQnWK0MmwlIDIEybMP4kn2IS9",
+    "title": "Destructor Knowledge",
+    "category": "Tech",
+    "description": "Visual breakdown of Destructor_Knowledge.",
+    "difficulty": "Intermediate",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/destructor_knowledge/01_Image_1.jpg",
+        "driveId": "1WqpPZ8NuAdsR4USKKkNdN1BU7dVE8pN_"
+      },
+      {
+        "order": 2,
+        "title": "Image 2",
+        "localUrl": "/images/drive/destructor_knowledge/02_Image_2.jpg",
+        "driveId": "1R_2sRrldoIP2qZJF_GXN3R3Jp--a-7F7"
+      }
+    ],
+    "coverImage": "/images/drive/destructor_knowledge/01_Image_1.jpg"
+  },
+  "dfs_application": {
+    "slug": "dfs_application",
+    "rawName": "DFS_Application",
+    "folderId": "1-RroVvNMvN9aKZglXDYNJO7FzAUx-Wtc",
+    "title": "DFS Applications & Cycle Detection",
+    "category": "DSA",
+    "description": "Depth-First Search in compiler dependency trees, topological ordering, cycle detection, and maze solving.",
+    "difficulty": "Intermediate",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/dfs_application/01_Image_1.jpg",
+        "driveId": "1kmiUglOKdcx52spFbnG4nRWLtS2sIL1H"
+      },
+      {
+        "order": 2,
+        "title": "Image 2",
+        "localUrl": "/images/drive/dfs_application/02_Image_2.jpg",
+        "driveId": "1kc9r9OTS35BJXtYdrm5wVZgEqCOBGDRB"
+      }
+    ],
+    "coverImage": "/images/drive/dfs_application/01_Image_1.jpg"
+  },
+  "docker": {
+    "slug": "docker",
+    "rawName": "Docker",
+    "folderId": "1RCSjzJJektFputKqaJ0OHFIdBxz3wvX0",
+    "title": "Docker Core Architecture & Containerization",
+    "category": "Docker & DevOps",
+    "description": "Docker daemon, images, container namespaces, cgroups, layers, and bridge networking visualized.",
+    "difficulty": "Beginner",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Docker-part1",
+        "localUrl": "/images/drive/docker/01_Docker_part1.jpg",
+        "driveId": "1SxU0UPcvyeGg6tJum9twFI4DME9YKqET"
+      },
+      {
+        "order": 2,
+        "title": "Docker-part2",
+        "localUrl": "/images/drive/docker/02_Docker_part2.jpg",
+        "driveId": "1mvBZNXeGPdKBC9CFQe6MYFEURmmVHouL"
+      }
+    ],
+    "coverImage": "/images/drive/docker/01_Docker_part1.jpg"
+  },
+  "hld_lld_understand": {
+    "slug": "hld_lld_understand",
+    "rawName": "HLD_LLD_Understand",
+    "folderId": "1kntn6xyB1BSGYmmx7cVyK3eCrW0hKWtO",
+    "title": "High-Level (HLD) vs Low-Level (LLD) Design",
+    "category": "System Design",
+    "description": "Understanding the fundamental differences and bridge between system architecture and class-level implementation.",
+    "difficulty": "Beginner",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Hld image1.png",
+        "localUrl": "/images/drive/hld_lld_understand/01_HLD_image1_png.jpg",
+        "driveId": "1zZZkM25ObbhD1Cd09QZU3XOzhgUzdeKp"
+      },
+      {
+        "order": 2,
+        "title": "Hld lld 2.png",
+        "localUrl": "/images/drive/hld_lld_understand/02_HLD_LLD_2_png.jpg",
+        "driveId": "1AtKmaf3lX1oEX-9yXU2_nmxd8mSY4rDr"
+      }
+    ],
+    "coverImage": "/images/drive/hld_lld_understand/01_HLD_image1_png.jpg"
+  },
+  "hld_networking": {
+    "slug": "hld_networking",
+    "rawName": "HLD_Networking",
+    "folderId": "1MbM1clFxFiBUF0RAFtIq0RcMRRLbv91j",
+    "title": "HLD Networking & Infrastructure Architecture",
+    "category": "Computer Networks",
+    "description": "Scale networking patterns, load balancing, DNS routing, CDNs, gateway proxies, and packet flows in distributed systems.",
+    "difficulty": "Advanced",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/hld_networking/01_Image_1.jpg",
+        "driveId": "1TkWGbfiK2tIfFw4dD2v2pCLNlrKWYakM"
+      },
+      {
+        "order": 2,
+        "title": "Image 2",
+        "localUrl": "/images/drive/hld_networking/02_Image_2.jpg",
+        "driveId": "1EtIz1f-gfJBo5endNuvm9jnX_2w_Ylr4"
+      },
+      {
+        "order": 3,
+        "title": "Image 3",
+        "localUrl": "/images/drive/hld_networking/03_Image_3.jpg",
+        "driveId": "1dqPkYSDqNALsCk6eF87FcLX7zGxSF8e3"
+      },
+      {
+        "order": 4,
+        "title": "Image 4",
+        "localUrl": "/images/drive/hld_networking/04_Image_4.jpg",
+        "driveId": "1EdLgREXskom9MxLEqFBDl-qLHINMMVef"
+      },
+      {
+        "order": 5,
+        "title": "Image 5",
+        "localUrl": "/images/drive/hld_networking/05_Image_5.jpg",
+        "driveId": "12NVyar20xxjc_GGqmZKhsOhsRKQpMEBV"
+      },
+      {
+        "order": 6,
+        "title": "Image 6",
+        "localUrl": "/images/drive/hld_networking/06_Image_6.jpg",
+        "driveId": "1I-4tP6Ivj2c0uO4ip22ce9UiPfSQ-GTo"
+      }
+    ],
+    "coverImage": "/images/drive/hld_networking/01_Image_1.jpg"
+  },
+  "os_process_state": {
+    "slug": "os_process_state",
+    "rawName": "Os_process_state",
+    "folderId": "1Ehxlp0HL1-BkJ0lsmcJaxIYCbOkvOVvp",
+    "title": "Operating System Process States & Lifecycle",
+    "category": "Operating Systems",
+    "description": "Complete state machine of OS processes: New, Ready, Running, Waiting, Terminated, context switches and scheduler queues.",
+    "difficulty": "Beginner",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/os_process_state/01_Image_1.jpg",
+        "driveId": "1TVLRO6ZWAaNqGpCPbxOFT_e0traYcPY_"
+      },
+      {
+        "order": 2,
+        "title": "Image 2",
+        "localUrl": "/images/drive/os_process_state/02_Image_2.jpg",
+        "driveId": "1ycqXg4Wop3kCYs9Z3mrRHkA8RRgNRG9W"
+      }
+    ],
+    "coverImage": "/images/drive/os_process_state/01_Image_1.jpg"
+  },
+  "os_whathappen_turn_on_laptop": {
+    "slug": "os_whathappen_turn_on_laptop",
+    "rawName": "Os_whathappen_turn_on_laptop",
+    "folderId": "1NxjAdAqkgVk4JJlOiMDzz4XWHXjOydlV",
+    "title": "What Happens When You Turn On Your Computer?",
+    "category": "Operating Systems",
+    "description": "From power button to desktop: BIOS/UEFI, POST, bootloader (GRUB), kernel decompression, init/systemd, and userspace startup.",
+    "difficulty": "Intermediate",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/os_whathappen_turn_on_laptop/01_Image_1.jpg",
+        "driveId": "1Fy9ON8n50cHi55EQ9tKN13MVR6WigN_F"
+      },
+      {
+        "order": 2,
+        "title": "Image 2",
+        "localUrl": "/images/drive/os_whathappen_turn_on_laptop/02_Image_2.jpg",
+        "driveId": "1U3Wrc79z-mnFeJbgbmEeA3_IGtp_txRJ"
+      },
+      {
+        "order": 3,
+        "title": "Image 3",
+        "localUrl": "/images/drive/os_whathappen_turn_on_laptop/03_Image_3.jpg",
+        "driveId": "1dqBMAIbRBG6VJ9nuuFRSJ9lAkkQlkgIF"
+      },
+      {
+        "order": 4,
+        "title": "Image 4",
+        "localUrl": "/images/drive/os_whathappen_turn_on_laptop/04_Image_4.jpg",
+        "driveId": "1h_L4Re1beu-1-yOoZSnR1FBO2Ma-jO7v"
+      },
+      {
+        "order": 5,
+        "title": "Image 5",
+        "localUrl": "/images/drive/os_whathappen_turn_on_laptop/05_Image_5.jpg",
+        "driveId": "1fo3QxgpLXPOt6yRNs_-C5r9vk1wj-taa"
+      },
+      {
+        "order": 6,
+        "title": "Image 6",
+        "localUrl": "/images/drive/os_whathappen_turn_on_laptop/06_Image_6.jpg",
+        "driveId": "1WCx2bH0E8QU3UVv4wLldi1UgNyQp0jQR"
+      }
+    ],
+    "coverImage": "/images/drive/os_whathappen_turn_on_laptop/01_Image_1.jpg"
+  },
+  "three_level_architecture_dbms": {
+    "slug": "three_level_architecture_dbms",
+    "rawName": "Three_level_Architecture_DBMS",
+    "folderId": "1hSX8L7tIgKo7lX8bWKl1SO5I0ZnOWMaV",
+    "title": "Three-Level Database Architecture (ANSI/SPARC)",
+    "category": "DBMS",
+    "description": "External level, Conceptual schema, Internal physical storage, and logical/physical data independence fully diagrammed.",
+    "difficulty": "Intermediate",
+    "slides": [
+      {
+        "order": 1,
+        "title": "Image 1",
+        "localUrl": "/images/drive/three_level_architecture_dbms/01_Image_1.jpg",
+        "driveId": "1Nm1-kEoXBSj9Hy5R-TpWk2Iehb1GBsyZ"
+      },
+      {
+        "order": 2,
+        "title": "Image 2",
+        "localUrl": "/images/drive/three_level_architecture_dbms/02_Image_2.jpg",
+        "driveId": "1WzHECJsZAO_kBybBqWAtQzLuMTtmnNOj"
+      },
+      {
+        "order": 3,
+        "title": "Image 3",
+        "localUrl": "/images/drive/three_level_architecture_dbms/03_Image_3.jpg",
+        "driveId": "11_CkWr1EXeyn0RpXZRqfU74QKLUhXH7B"
+      },
+      {
+        "order": 4,
+        "title": "Image 4",
+        "localUrl": "/images/drive/three_level_architecture_dbms/04_Image_4.jpg",
+        "driveId": "13fNkNuoFnyi_Ips8K6LGwjLt4WUB1tG3"
+      },
+      {
+        "order": 5,
+        "title": "Image 5",
+        "localUrl": "/images/drive/three_level_architecture_dbms/05_Image_5.jpg",
+        "driveId": "18CXMQiJojTKa3r-sw7uAd4cRtHT7uzwz"
+      },
+      {
+        "order": 6,
+        "title": "Image 6",
+        "localUrl": "/images/drive/three_level_architecture_dbms/06_Image_6.jpg",
+        "driveId": "1oxqE7Ukz4hh0xoROWmz4LjYHXv8VVPx9"
+      }
+    ],
+    "coverImage": "/images/drive/three_level_architecture_dbms/01_Image_1.jpg"
+  }
+}
